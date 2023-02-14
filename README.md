@@ -1,9 +1,9 @@
-#BDP Final Project
+*BDP Final Project*
 
 - All three datasets are located in the datasets.zip
 - The python files are located in the ipynb folder
 
-##Instructions:
+**Instructions**:
 
 - Extract the datasets zip to the wanted location in your Drive
 - Copy the ipynb files which are inside the folder to the same location where the datasets are
