@@ -1,4 +1,4 @@
-*BDP Final Project*
+**BDP Final Project**
 
 - All three datasets are located in the datasets.zip
 - The python files are located in the ipynb folder
